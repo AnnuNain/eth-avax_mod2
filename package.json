@@ -1,0 +1,18 @@
+{
+  "name": "eth-itermediate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "Annu <annunain.1216@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
